@@ -4,4 +4,9 @@
 
 /.vscode
 /node_modules
-./dist
+./distgit
+
+
+
+
+mongodb+srv://deepakkathuria32:fanatsym5Gwdcic5tEIRNBN@cluster0.ssehtn3.mongodb.net/
